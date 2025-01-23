@@ -533,9 +533,9 @@
   integrity sha512-O3uyB/JbkAEMZaP3YqyHH7TMnex7tWyCbCI4EfJdOCoN6HIhqdJBWTM6aCCiWQ/5f5wxjgU735QAIpJbjDvmzg==
 
 "@types/bcryptjs@^2.4.2":
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/@types/bcryptjs/-/bcryptjs-2.4.2.tgz#e3530eac9dd136bfdfb0e43df2c4c5ce1f77dfae"
-  integrity sha512-LiMQ6EOPob/4yUL66SZzu6Yh77cbzJFYll+ZfaPiPPFswtIlA/Fs1MzdKYA7JApHU49zQTbJGX3PDmCpIdDBRQ==
+  version "2.4.6"
+  resolved "https://registry.yarnpkg.com/@types/bcryptjs/-/bcryptjs-2.4.6.tgz#2b92e3c2121c66eba3901e64faf8bb922ec291fa"
+  integrity sha512-9xlo6R2qDs5uixm0bcIqCeMCE6HiQsIyel9KQySStiyqNl2tnj2mP3DX1Nf56MD6KMenNNlBBsy3LJ7gUEQPXQ==
 
 "@types/engine.io@*":
   version "3.1.7"
